@@ -49,6 +49,11 @@ h1 {
 	background: transparent;
 }
 
+svg {
+	position: relative;
+	opacity: 0.5;
+}
+
 .infobox {
 	background: #FFF;
 	width: 320px;
